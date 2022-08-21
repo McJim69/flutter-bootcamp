@@ -1,5 +1,5 @@
-# Navigation Drawer Sample
+# Simple Stock UI Clone (Using Containers Only)
 
-Simple Navigation Drawer sample screen with a basic hero animation in Flutter, a mobile sdk framework by Google.
+Simple Stock UI Clone (Using Containers Only) with a basic widgets in Flutter, a mobile sdk framework by Google.
 
-![Login UI Flutter](https://github.com/McJim69/flutter-navigation-sample/blob/master/Screenshot.jpg)
+![Login UI Flutter](https://github.com/McJim69/flutter-bootcamp-day1/blob/master/Screenshot.jpg)
